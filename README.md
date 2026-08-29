@@ -1,1 +1,1 @@
-# basic calculator with easter eggs
+# BASIC CALCULATOR WITH EASTER EGGS **FLASH WARNING**
